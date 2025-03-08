@@ -26,4 +26,4 @@ Virtual box: Ferramenta que permite que eu possa baixar outro sistema dentro do 
 Ex: linux, dentro do Windows
 
 
-# Salvar códifo
+# Salvar código
